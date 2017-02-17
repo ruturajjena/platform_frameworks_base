@@ -15,6 +15,11 @@
 -->
 <resources>
 
+  <!-- IMS -->
+  <java-symbol type="string" name="config_optionalPackageVerifierName" />
+  <java-symbol type="integer" name="config_sms_authorization_timeout_ms" />
+  <java-symbol type="bool" name="config_sms_authorization_enabled" />
+
     <!-- Recent task locking -->
     <dimen name="recents_task_view_header_lock_button_padding">48dp</dimen>
 
