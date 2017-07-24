@@ -27,4 +27,12 @@
     <color name="recents_memory_progress_overall">@*android:color/resize_shadow_start_color</color>
     <color name="recents_memory_progress_free">@*android:color/accent_device_default_light</color>
 
+    <!-- Screen pinning layout -->
+    <color name="screen_pinning_background_color">@*android:color/accent_device_default_light</color>
+    <color name="screen_pinning_title_text">@android:color/white</color>
+    <color name="screen_pinning_description_text">@android:color/white</color>
+    <color name="screen_pinning_button_text">@android:color/white</color>
+    <color name="screen_pinning_bg_circ_color">#40FFFFFF</color>
+    <color name="screen_pinning_nav_icon_hightlight_outer_color">@android:color/white</color>
+
 </resources>
