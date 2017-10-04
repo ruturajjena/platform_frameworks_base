@@ -16,6 +16,7 @@
 
 package com.android.internal.util.aos;
 
+import android.Manifest;
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
@@ -217,6 +218,11 @@ public class aosUtils {
         }
     }
 
+
+    // Check to see if device supports an alterative ambient display package
+    public static boolean hasAltAmbientDisplay(Context context) {
+        return context.getResources().getBoolean(com.android.internal.R.bool.config_alt_ambient_display);
+    }
     // Omni Switch Constants
 
     /**
