@@ -41,4 +41,7 @@
         <item name="android:textColor">?android:attr/textColorPrimary</item>
     </style>
 
+    <!-- <style name="ContainerActivityTheme"
+        parent="@android:style/Theme.Translucent.NoTitleBar">
+    </style>-->
 </resources>
