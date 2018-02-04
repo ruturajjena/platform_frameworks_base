@@ -110,9 +110,13 @@
     <string name="permdesc_preventpower">Allows an app to override the power key.</string>
 
     <!-- Show lte/4g switch -->
-    <string name="show_lte_fourgee_title">4G/LTE network icon</string>
+    <string name="show_lte_fourgee_title">4G/LTE network</string>
     <string name="show_lte_fourgee_summary">Display either the 4G or LTE network icon in the statusbar/QS panel</string>
-    <string name="statusbar_tuner_category_title">Hide items from statusbar</string>
+    <string name="statusbar_tuner_category_title">Generic statusbar icons</string>
+
+    <!-- AOS logo -->
+    <string name="aos_logo_title">Atomic logo</string>
+    <string name="aos_logo_summary">Let everyone know that you\'re using Atomic OS when they see your screen</string>
 
     <!-- Battery saver tile -->
     <string name="battery_saver_qs_tile_fully_charged">Fully Charged</string>
