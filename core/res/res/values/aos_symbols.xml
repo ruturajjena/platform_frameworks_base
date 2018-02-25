@@ -18,6 +18,17 @@
     <!-- Recent task locking -->
     <dimen name="recents_task_view_header_lock_button_padding">48dp</dimen>
 
+  <!-- Power menu items -->
+  <java-symbol type="color" name="power_menu_power_off" />
+  <java-symbol type="color" name="power_menu_restart" />
+  <java-symbol type="color" name="power_menu_restart_advanced" />
+  <java-symbol type="color" name="power_menu_hot_reboot" />
+  <java-symbol type="color" name="power_menu_advanced_bootloader" />
+  <java-symbol type="color" name="power_menu_advanced_recovery" />
+  <java-symbol type="color" name="power_menu_advanced_system_restart_ui" />
+  <java-symbol type="color" name="power_menu_screenshot" />
+
+
     <!-- Whether device has dash charging support -->
     <java-symbol type="bool" name="config_hasDashCharger" />
 
