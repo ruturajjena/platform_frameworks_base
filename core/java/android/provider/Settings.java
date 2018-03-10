@@ -4140,13 +4140,19 @@ public final class Settings {
          * @hide
          */
         public static final String HIDE_LOCKSCREEN_ALARM = "hide_lockscreen_alarm";
- 
+
         /**
          * Whether to mute annoying notifications
          * @hide
          */
         public static final String MUTE_ANNOYING_NOTIFICATIONS_THRESHOLD =
                 "mute_annoying_notifications_threshold";
+
+        /**
+         * Whether to display roaming indicator for roaming signal connection
+         * @hide
+         */
+        public static final String ROAMING_INDICATOR_ICON = "roaming_indicator_icon";
 
         /**
          * Whether to display the 4g or lte network icon in the statusbar
@@ -4385,12 +4391,6 @@ public final class Settings {
          * @hide
          */
         public static final String LOCK_SCREEN_WEATHER_CONDITION_ICON = "lock_screen_weather_condition_icon";
-
-        /**
-         * Whether to display roaming indicator for roaming signal connection
-         * @hide
-         */
-        public static final String ROAMING_INDICATOR_ICON = "roaming_indicator_icon";
 
         /**
         * Whether to show media art on lockscreen
