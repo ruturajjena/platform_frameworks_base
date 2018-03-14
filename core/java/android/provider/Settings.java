@@ -4576,6 +4576,12 @@ public final class Settings {
         public static final String STATUS_BAR_LOGO = "status_bar_logo";
 
         /**
+         * Configure the app to be used to edit screenshots with
+         * @hide
+         */
+        public static final String SCREENSHOT_EDIT_USER_APP = "screenshot_edit_user_app";
+
+        /**
          * Whether to use slim recents
          * @hide
          */
@@ -4620,7 +4626,7 @@ public final class Settings {
          */
         public static final String RECENT_PANEL_BG_COLOR = "recent_panel_bg_color";
 
-         /**
+        /**
          * Recent card background color
          *
          * @hide
@@ -4656,8 +4662,7 @@ public final class Settings {
          * 0: Fade animation
          * 1: Scrolling ticker
          */
-        public static final String STATUS_BAR_TICKER_ANIMATION_MODE =
-                "status_bar_ticker_animation_mode";
+        public static final String STATUS_BAR_TICKER_ANIMATION_MODE = "status_bar_ticker_animation_mode";
 
         /**
          * Whether to change the transparency of the qs panel
