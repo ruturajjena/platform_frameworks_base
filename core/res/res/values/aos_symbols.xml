@@ -18,6 +18,10 @@
     <!-- Recent task locking -->
     <dimen name="recents_task_view_header_lock_button_padding">48dp</dimen>
 
+  <!-- Auto fill -->
+  <java-symbol type="color" name="autofill_save_title_color" />
+  <java-symbol type="color" name="autofill_autofill_save_custom_subtitle_color" />
+
   <!-- Power menu items -->
   <java-symbol type="color" name="power_menu_power_off" />
   <java-symbol type="color" name="power_menu_restart" />
