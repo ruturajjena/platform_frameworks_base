@@ -25,6 +25,9 @@
   <java-symbol type="color" name="autofill_save_title_color" />
   <java-symbol type="color" name="autofill_autofill_save_custom_subtitle_color" />
 
+  <!-- Fastscroller thumb text color -->
+  <java-symbol type="color" name="fastscroller_thumb_text_color" />
+
   <!-- Power menu items -->
   <java-symbol type="color" name="power_menu_power_off" />
   <java-symbol type="color" name="power_menu_restart" />
