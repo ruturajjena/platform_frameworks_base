@@ -4572,6 +4572,8 @@ message MetricsEvent {
 
     // Atomic-OS Laboratory
     LABORATORY = 1145;
+    OMNI_QS_WEATHER = 1151;
+    OMNI_QS_WEATHER_DETAILS = 1152;
 
     // ---- End O-MR1 Constants, all O-MR1 constants go above this line ----
 
